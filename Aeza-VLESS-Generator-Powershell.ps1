@@ -1,3 +1,4 @@
+$OutputEncoding = [System.Text.Encoding]::UTF8
 $AEZA_API_ENDPOINT = "https://api.aeza-security.net/v2"
 $USER_AGENT = "Dart/3.5 (dart:io)"
 $IPINFO_API_ENDPOINT = "https://ipinfo.io"
